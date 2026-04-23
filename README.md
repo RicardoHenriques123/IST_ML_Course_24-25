@@ -9,7 +9,7 @@ Machine Learning course assignments (IST - Instituto Superior Técnico, 2024/202
 | 1 | Linear Regression | `hw1/G024_notebook.ipynb` | `hw1/G024_report.pdf` |
 | 2 | Classification | `hw2/HW_2_Part_2.ipynb` | `hw2/G024_report.pdf` |
 | 3 | Neural Networks | `hw3/HW_3_Part2.ipynb` | `hw3/G024_report.pdf` |
-| 4 | Deep Learning | `hw4/G24_notebook.ipynb` | `hw4/G24_report.pdf` |
+| 4 | Clustering | `hw4/G24_notebook.ipynb` | `hw4/G24_report.pdf` |
 
 ## Repository Structure
 
